@@ -1,0 +1,8 @@
+{
+  "appId": "de.mediapp.meinemedikamente",
+  "appName": "Meine Medikamente",
+  "webDir": "www",
+  "ios": {
+    "contentInset": "automatic"
+  }
+}
